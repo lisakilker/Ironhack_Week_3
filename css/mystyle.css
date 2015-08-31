@@ -1,0 +1,36 @@
+.box {
+  height: 40px;
+  padding: 100x;
+  border: 1px solid
+}
+
+.dropdown {
+	padding: 5px;
+}
+
+.input-group {
+	padding: 5px;
+	color: #9932CC;
+}
+
+body {
+	color: #9932CC;
+}
+
+.jumbotron {
+	padding: 10%;
+	color: #9932CC;
+
+}
+
+.nav nav-tabs{
+	padding: 8px;
+	color: #9932CC;
+
+}
+
+.btn-group{
+	color: #9932CC;
+
+	
+}
