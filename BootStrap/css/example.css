@@ -1,0 +1,74 @@
+.header {
+	padding-top: 20px;
+	background: white;
+	padding-bottom: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #696969;
+	outline: 1px solid #DCDCDC;
+}
+.second-nav {
+	padding-top: 7px;
+	background-color: #F5F5F5;
+	padding-bottom: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 125%;
+	color: #696969;
+	box-shadow: 3px 3px 3px #888888;
+}
+body {
+	background-color: #DCDCDC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: 9px;
+	font-size:97%;
+	padding: 10px;
+}
+footer {
+   position: fixed;
+   bottom: 0px;
+   width: 100%;
+   height: 60px; 
+   background: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:95%;
+}
+img { 
+	margin-left: 8px; 
+	margin-right: 8px; 
+} 
+.form-control {
+	border: none;
+	background: transparent;
+	font-color: black;
+}
+.btn {
+background-color: #0033CC;
+}
+::-webkit-input-placeholder {
+ font-size: 15px;
+ color: #d0cdfa;
+ text-align: left;
+}
+.input-group {
+	outline: 1px solid;
+	outline-color: #D3D3D3;
+}
+.button {
+ 	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    padding: 7px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
