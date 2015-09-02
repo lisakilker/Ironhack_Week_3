@@ -1,4 +1,4 @@
-// var decode = require("./decorder.js");
+var decode = require("./decorder.js");
 
 var sentence = "this is the sentence";
 
@@ -29,7 +29,7 @@ function super_decoder(sentence, OptionStr) {
 word = words.reverse
 console.log(even);
 console.log(odd);
-// module.exports = decoder.js
+module.exports = decoder.js
 
 
 
