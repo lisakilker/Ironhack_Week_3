@@ -28,14 +28,14 @@ Cart.prototype.total = function(){
 	return total;
 }
 
-Cart.prototype.claculateAppleDiscount = function() {
+Cart.prototype.calculateAppleDiscount = function() {
 
 	var discount = 0;
 
 	this.items.forEach(function (item)){
 		if (item.name === "apple") {
 			if (foundAppleBefore) {
-				
+
 			}
 		}
 	}
